@@ -17,7 +17,7 @@ class App extends Component {
 				params: {
 					part: "snippet",
 					maxResults: 5,
-					key: "AIzaSyAAgtl0Fq3ItiQlpCw-v4IYYoA384KY7Bk",
+					key: "API_KEY",
 					q: "Microservices"
 				},
 			})
